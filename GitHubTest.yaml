@@ -6,7 +6,7 @@ metadata:
     access: private
 spec:
   type: single-use
-  lifecycle: deprecated
+  lifecycle: design
   owner: test
   definition: |
     {
