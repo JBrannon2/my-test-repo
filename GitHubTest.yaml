@@ -2,12 +2,11 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: GitHubTest
-  description: This is a test registration
   labels:
     access: private
 spec:
   type: single-use
-  lifecycle: design
+  lifecycle: deprecated
   owner: test
   definition: |
     {
