@@ -4,6 +4,7 @@ metadata:
   name: GitHubTest
   labels:
     access: private
+  tags: []
 spec:
   type: single-use
   lifecycle: design
