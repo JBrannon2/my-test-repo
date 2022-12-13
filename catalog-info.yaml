@@ -6,3 +6,4 @@ spec:
   targets:
     - ./SpecificationsApi.yaml
     - ./sub-folder/GitHubTest.yaml
+    - ./GitHubTest.yaml
