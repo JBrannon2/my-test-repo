@@ -1,9 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Location
-metadata:
-  name: SpecificationsApi
-spec:
-  targets:
-    - ./SpecificationsApi.yaml
-    - ./sub-folder/GitHubTest.yaml
-    - ./GitHubTest.yaml
