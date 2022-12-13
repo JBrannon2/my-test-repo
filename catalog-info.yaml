@@ -5,3 +5,4 @@ metadata:
 spec:
   targets:
     - ./sub-folder/MyTestRepo.yaml
+    - ./MyTestRepo.yaml
