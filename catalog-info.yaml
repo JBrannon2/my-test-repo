@@ -5,3 +5,4 @@ metadata:
 spec:
   targets:
     - ./GitHubTest.yaml
+    - ././sub-folder/MyTestRepo.yaml
