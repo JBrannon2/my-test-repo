@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: GitHubTest
+  annotations:
+    source: https://github.com/JBrannon2/my-test-repo.git
+spec:
+  targets:
+    - ./GitHubTest.yaml
