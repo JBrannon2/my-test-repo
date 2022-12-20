@@ -4,7 +4,6 @@ metadata:
   name: catalog
   labels:
     access: private
-  tags: []
 spec:
   type: single-use
   lifecycle: design
