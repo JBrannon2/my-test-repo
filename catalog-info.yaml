@@ -7,3 +7,4 @@ spec:
     - ./GitHubTest.yaml
     - ./sub-folder/MyTestRepo.yaml
     - ./catalog.yaml
+    - ./ca.yaml
