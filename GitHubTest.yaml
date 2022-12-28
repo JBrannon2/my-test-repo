@@ -8,11 +8,4 @@ spec:
   type: single-use
   lifecycle: design
   owner: test
-  definition: |
-    {
-      "openapi": "3.1.0"
-      "info": {
-        "version": "2022-01-01"
-        "title": "GitHubTest"
-      }
-    }
+  definition: https://github.com/Paylocity/Paylocity.DeveloperPortal.Specifications/blob/main/local/default/CommunicationMessageCenterApi/latest.json
